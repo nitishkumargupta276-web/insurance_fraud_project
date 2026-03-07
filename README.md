@@ -11,10 +11,10 @@ INSURANCE FRAUD DETECTION
 
 
 #Technologies used:-python
-                  -Machine learning
-                  -Pandas
-                  -scikit-learn
-                  -flask(for web interface)
+                  -Machine learning,
+                  -Pandas,
+                  -scikit-learn,
+                  -flask(for web interface),
 
 
 #Dataset:-the project uses an insurance claims dataset containing age,claim amount,previous claims,policy year .
@@ -28,10 +28,10 @@ INSURANCE FRAUD DETECTION
 
 
 #How to run the project 
-1.Download or clone the repository.
-2.Open the project folder in terminal
-3.Install required libraries.
-4.Run the application using: a)cd insurance_fraud_project
+1.Download or clone the repository.,
+2.Open the project folder in terminal.,
+3.Install required libraries.,
+4.Run the application using: a)cd insurance_fraud_project,
                              b)python app.py
 
 5.open the link shown in the terminal in your browser to view the output.
