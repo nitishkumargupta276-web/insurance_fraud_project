@@ -1,0 +1,23 @@
+#escape sequence character
+      # \n-new line
+      # \n-tab space
+      #\"  \"  -double quote
+      #\f -f0rm feed
+      #\\	Backslash
+      #\t	Tab
+      #\r	Carriage return
+      #\b	Backspace
+      #\f	Form feed
+      #\ooo	Character with octal value
+      #\xhh	Character with hexadecimal value
+a="python is the \"programmig\" language but\n c,jave ,rust are also programmiz\t language"
+print(a)
+
+b='ram is a "good"boy'
+print(b)
+
+c='ram is a\f \'good\' boy'
+print(c)
+
+d="ram is a good/ boy"
+print(d)
