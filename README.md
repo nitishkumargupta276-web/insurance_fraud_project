@@ -41,5 +41,5 @@ INSURANCE FRAUD DETECTION
         on the input data 
                                                                                   
                                                                                      
-                                                                      Author
-                                                                   NITISH KUMAR GUPTA
+                                                                      
+                                                                   
