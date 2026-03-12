@@ -39,7 +39,7 @@ INSURANCE FRAUD DETECTION
 
 #Output:-the system predicts whether an insurance claim is fraudster or not fraudster based
         on the input data 
-
-
-                                                                                     Author
-                                                                                 NITISH KUMAR GUPTA
+                                                                                  
+                                                                                     
+                                                                      Author
+                                                                   NITISH KUMAR GUPTA
