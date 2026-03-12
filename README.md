@@ -41,5 +41,6 @@ INSURANCE FRAUD DETECTION
         on the input data 
                                                                                   
                                                                                      
-                                                                      
+       <img width="1600" height="634" alt="image" src="https://github.com/user-attachments/assets/5ddbca68-0a00-4d4c-acdd-eccd45126050" />
+                                                               
                                                                    
